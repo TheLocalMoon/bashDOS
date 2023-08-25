@@ -1,0 +1,5 @@
+bashDOS 0.11:
+- added support for anycase commands, ex.: sAy, Say, cOLOR, Color and etc.
+- fixed "history" command
+- fixed parsing HEX colors, now it wont give 2 errors because of the main.sh script, but it will give you "Unable to parse HEX" error now
+- fixed sub-arguments of "color custom"
